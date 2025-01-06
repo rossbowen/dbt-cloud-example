@@ -2,7 +2,11 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
+<<<<<<< HEAD
 name: 'dbt-cloud-example'
+=======
+name: 'dbt_cloud_example'
+>>>>>>> 1b913bc75080cdf471ebd4d15e820de1e5ee54dd
 version: '1.0.0'
 
 # This setting configures which "profile" dbt uses for this project.
